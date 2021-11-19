@@ -1,5 +1,5 @@
 {
-  "name": "my-next-app",
+  "name": "space-tourism-website",
   "private": true,
   "scripts": {
     "dev": "next dev",
